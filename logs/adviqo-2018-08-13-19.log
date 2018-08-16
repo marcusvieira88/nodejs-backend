@@ -1,0 +1,2 @@
+2018-08-13T17:41:37.231Z - info: Connected to the database env: local
+2018-08-13T17:57:07.839Z - info: Mongoose default connection with DB env: local is disconnected through app termination

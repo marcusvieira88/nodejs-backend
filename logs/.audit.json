@@ -1,0 +1,29 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 3
+    },
+    "auditLog": "/home/marcus/Documents/estudos/adviqo-backend/logs/.audit.json",
+    "files": [
+        {
+            "date": 1534182097182,
+            "name": "/home/marcus/Documents/estudos/adviqo-backend/logs/adviqo-2018-08-13-19.log",
+            "hash": "b34d53b5a0f9e8e61cc7d4a3577cea5d"
+        },
+        {
+            "date": 1534184971962,
+            "name": "/home/marcus/Documents/estudos/adviqo-backend/logs/adviqo-2018-08-13-20.log",
+            "hash": "22b4e0e832ed8d04c2448d73a6b82566"
+        },
+        {
+            "date": 1534185379721,
+            "name": "/home/marcus/Documents/estudos/adviqo-backend/logs/adviqo-2018-08-13-20.log",
+            "hash": "01285e92f1e1f4c4a63160860d3aef73"
+        },
+        {
+            "date": 1534191502022,
+            "name": "/home/marcus/Documents/estudos/adviqo-backend/logs/adviqo-2018-08-13-22.log",
+            "hash": "1c8e0c6d6b82f64c3bc0c3a9f5fe79d5"
+        }
+    ]
+}
