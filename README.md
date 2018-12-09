@@ -1,6 +1,6 @@
-# Code Challenge
+# Introduction
 
-This app was built to respond the code challenge.
+This app was built to pratice the nodejs environment.
 
 ## Frameworks
 
