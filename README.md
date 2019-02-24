@@ -2,6 +2,8 @@
 
 This app was built to pratice the nodejs environment.
 
+http://inch-ci.org/github/marcusvieira88/nodejs-backend.svg?branch=master
+
 ## Frameworks
 
 The frameworks used are:
