@@ -2,7 +2,7 @@
 
 This app was built to pratice the nodejs environment.
 
-http://inch-ci.org/github/marcusvieira88/nodejs-backend.svg?branch=master
+[![Inline docs](http://inch-ci.org/github/marcusvieira88/nodejs-backend.svg?branch=master)](http://inch-ci.org/github/marcusvieira88/nodejs-backend)
 
 ## Frameworks
 
